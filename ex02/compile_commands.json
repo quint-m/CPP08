@@ -1,0 +1,20 @@
+[
+  {
+    "file": "src/main.cpp",
+    "arguments": [
+      "c++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c++98",
+      "-MMD",
+      "-MP",
+      "-c",
+      "src/main.cpp",
+      "-o",
+      "obj/main.o"
+    ],
+    "directory": "/home/quinten/Documents/codam/cpp08/ex02",
+    "output": "obj/main.o"
+  }
+]
